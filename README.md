@@ -21,7 +21,7 @@
 
 ### Portfolio
 
-💼 [taoli on Netlify](https://taoli.netlify.app), which contains my prefessional profile and sample writings. 
+💼 [taoli on Netlify](https://taoli.netlify.app), which contains my prefessional profile and writing samples. 
 ### Connect
 
 <a href="https://www.linkedin.com/in/taolicd">
