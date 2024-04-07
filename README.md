@@ -7,7 +7,7 @@
 
 ### Bio
 
-🧠 I currently work at Amazon as programming writer.
+🧠 I currently work at Amazon as Programming Writer.
 
 ⌛️ Prior to Amazon, I worked as Senior Tech Writer at SS&C Technologies, IBM Toronto and IBM Silicon Valley.
 
