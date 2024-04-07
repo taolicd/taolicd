@@ -1,6 +1,6 @@
 ### About me
 
-🔭 I'm passionate about technical communications, human-computer interactionns, artificial intelligence, and natural language processing. 
+🔭 I'm passionate about technical communications, human-computer interactions, artificial intelligence, and natural language processing. 
 
 👯 I'm interested in mentoring, coaching and collaborating with fellow technical writers and AI enthusiasts. If you have an idea related to my areas of interest, feel free to contact me @ [email](mailto:taolicd@gmail.com)! 
 
@@ -15,7 +15,7 @@
 
 🏃🏻‍♂️ Outside of work, I enjoy swimming, reading books, and listening to podcasts.
 
-![image](https://github.com/taolicd/taolicd/assets/4405466/26b53465-595a-4f32-8284-b73acc150ef9) I speak English, Madarin Chinese, and Sichuan dialect fluently, can understand some Russian, and fully undertand Shanghai dialect :-) 
+![image](https://github.com/taolicd/taolicd/assets/4405466/26b53465-595a-4f32-8284-b73acc150ef9) I speak English, Mandarin Chinese, and Sichuan dialect fluently, can understand some Russian, and fully understand Shanghai dialect :-) 
 
 
 ### Personal Blog
@@ -24,7 +24,7 @@
 
 ### Portfolio
 
-💼 [taoli on Netlify](https://taoli.netlify.app), which contains my prefessional profile and writing samples. 
+💼 [taoli on Netlify](https://taoli.netlify.app), which contains my professional profile and writing samples. 
 ### Connect
 
 <a href="https://www.linkedin.com/in/taolicd">
