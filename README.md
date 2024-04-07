@@ -15,7 +15,7 @@
 
 🏃🏻‍♂️ Outside of work, I enjoy swimming, reading books, and listening to podcasts.
 
-![image](https://github.com/taolicd/taolicd/assets/4405466/8a8740b5-7290-479a-bc42-64bda37c370b) I speak English, Madarin Chinese, and Sichuan dialect fluently, can understand some Russian, and fully undertand Shanghai dialect :-) 
+![image](https://github.com/taolicd/taolicd/assets/4405466/26b53465-595a-4f32-8284-b73acc150ef9) I speak English, Madarin Chinese, and Sichuan dialect fluently, can understand some Russian, and fully undertand Shanghai dialect :-) 
 
 
 ### Personal Blog
