@@ -9,7 +9,7 @@
 
 🧠 I currently work at Amazon as Programming Writer.
 
-⌛️ Prior to Amazon, I worked as Senior Tech Writer at SS&C Technologies, IBM Toronto and IBM Silicon Valley.
+⌛️ Prior to Amazon, I worked as Senior Tech Writer at SS&C Technologies, IBM Silicon Valley, and IBM Toronto.
 
 🎓 I received Bachelor of Science in Applied Mathematics in Shanghai and Technical Writing Certificate in Toronto.
 
