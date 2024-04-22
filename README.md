@@ -1,6 +1,6 @@
 ### About me
 
-🔭 I'm passionate about technical communications, human-computer interactions, artificial intelligence, and natural language processing. 
+🔭 I'm passionate about technical communication, human-computer interactions, artificial intelligence, and natural language processing. 
 
 👯 I'm interested in mentoring, coaching and collaborating with fellow technical writers and AI enthusiasts. If you have an idea related to my areas of interest, feel free to contact me @ [email](mailto:taolicd@gmail.com)! 
 
